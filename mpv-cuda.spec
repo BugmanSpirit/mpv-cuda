@@ -222,7 +222,7 @@ meson --libdir=lib64 --prefix=/usr/local-cuda --buildtype=plain \
       -Dvulkan=enabled \
       -Dwayland=enabled \
       -Dwerror=false \
-      -Dx11=enabled \
+      -Dx11=disabled \
       -Dxv=enabled \
       -Dzimg=enabled \
       -Dzlib=enabled      builddir
