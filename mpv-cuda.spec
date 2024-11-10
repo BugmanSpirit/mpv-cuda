@@ -207,7 +207,7 @@ meson --libdir=lib64 --prefix=/usr/local-cuda --buildtype=plain \
       -Dsdl2-gamepad=disabled \
       -Dsdl2-video=disabled \
       -Dsdl2=disabled \
-      -Dshaderc=diabled \
+      -Dshaderc=disabled \
       -Dsndio=disabled \
       -Dspirv-cross=enabled \
       -Duchardet=enabled \
